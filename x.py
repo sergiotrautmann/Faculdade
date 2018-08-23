@@ -49,7 +49,7 @@ def is_triangle(n1,n2,n3):
     else:
         return True
 
-numero1 = int(input('Digite o primeiro número:'))
-numero2 = int(input('Digite o segundo número:'))
-numero3 = int(input('Digite o terceiro número:'))
+numero1 = float(input('Digite o primeiro número:'))
+numero2 = float(input('Digite o segundo número:'))
+numero3 = float(input('Digite o terceiro número:'))
 print(is_triangle(numero1,numero2,numero3))
