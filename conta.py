@@ -1,0 +1,1 @@
+#criar uma classe conta, com os atributos(numero,agencia,tipo,saldo) e metodos(depósito, saque, transferencia e consultar saldo)
